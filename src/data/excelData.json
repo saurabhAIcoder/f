@@ -1,0 +1,3414 @@
+{
+  "IncomeStatement_Tidy": [
+    {
+      "fiscal_year": 2016,
+      "line_item_code": "IS_REV_WS",
+      "line_item": "Wholesale",
+      "statement_group": "Revenue",
+      "value": 11663,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2017,
+      "line_item_code": "IS_REV_WS",
+      "line_item": "Wholesale",
+      "statement_group": "Revenue",
+      "value": 12943,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2018,
+      "line_item_code": "IS_REV_WS",
+      "line_item": "Wholesale",
+      "statement_group": "Revenue",
+      "value": 12733,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2019,
+      "line_item_code": "IS_REV_WS",
+      "line_item": "Wholesale",
+      "statement_group": "Revenue",
+      "value": 13191,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2020,
+      "line_item_code": "IS_REV_WS",
+      "line_item": "Wholesale",
+      "statement_group": "Revenue",
+      "value": 10160,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2021,
+      "line_item_code": "IS_REV_WS",
+      "line_item": "Wholesale",
+      "statement_group": "Revenue",
+      "value": 11148,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2022,
+      "line_item_code": "IS_REV_WS",
+      "line_item": "Wholesale",
+      "statement_group": "Revenue",
+      "value": 12156,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2023,
+      "line_item_code": "IS_REV_WS",
+      "line_item": "Wholesale",
+      "statement_group": "Revenue",
+      "value": 11142,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2016,
+      "line_item_code": "IS_REV_RT",
+      "line_item": "Retail",
+      "statement_group": "Revenue",
+      "value": 5841,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2017,
+      "line_item_code": "IS_REV_RT",
+      "line_item": "Retail",
+      "statement_group": "Revenue",
+      "value": 7172,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2018,
+      "line_item_code": "IS_REV_RT",
+      "line_item": "Retail",
+      "statement_group": "Revenue",
+      "value": 8196,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2019,
+      "line_item_code": "IS_REV_RT",
+      "line_item": "Retail",
+      "statement_group": "Revenue",
+      "value": 9480,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2020,
+      "line_item_code": "IS_REV_RT",
+      "line_item": "Retail",
+      "statement_group": "Revenue",
+      "value": 8970,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2021,
+      "line_item_code": "IS_REV_RT",
+      "line_item": "Retail",
+      "statement_group": "Revenue",
+      "value": 9428,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2022,
+      "line_item_code": "IS_REV_RT",
+      "line_item": "Retail",
+      "statement_group": "Revenue",
+      "value": 9725,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2023,
+      "line_item_code": "IS_REV_RT",
+      "line_item": "Retail",
+      "statement_group": "Revenue",
+      "value": 9706,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2016,
+      "line_item_code": "IS_REV_OTH",
+      "line_item": "Other Businesses",
+      "statement_group": "Revenue",
+      "value": 979,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2017,
+      "line_item_code": "IS_REV_OTH",
+      "line_item": "Other Businesses",
+      "statement_group": "Revenue",
+      "value": 1103,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2018,
+      "line_item_code": "IS_REV_OTH",
+      "line_item": "Other Businesses",
+      "statement_group": "Revenue",
+      "value": 986,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2019,
+      "line_item_code": "IS_REV_OTH",
+      "line_item": "Other Businesses",
+      "statement_group": "Revenue",
+      "value": 969,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2020,
+      "line_item_code": "IS_REV_OTH",
+      "line_item": "Other Businesses",
+      "statement_group": "Revenue",
+      "value": 714,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2021,
+      "line_item_code": "IS_REV_OTH",
+      "line_item": "Other Businesses",
+      "statement_group": "Revenue",
+      "value": 658,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2022,
+      "line_item_code": "IS_REV_OTH",
+      "line_item": "Other Businesses",
+      "statement_group": "Revenue",
+      "value": 630,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2023,
+      "line_item_code": "IS_REV_OTH",
+      "line_item": "Other Businesses",
+      "statement_group": "Revenue",
+      "value": 579,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2016,
+      "line_item_code": "IS_REV_TOT",
+      "line_item": "Total Net Revenue",
+      "statement_group": "Subtotal",
+      "value": 18483,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2017,
+      "line_item_code": "IS_REV_TOT",
+      "line_item": "Total Net Revenue",
+      "statement_group": "Subtotal",
+      "value": 21218,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2018,
+      "line_item_code": "IS_REV_TOT",
+      "line_item": "Total Net Revenue",
+      "statement_group": "Subtotal",
+      "value": 21915,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2019,
+      "line_item_code": "IS_REV_TOT",
+      "line_item": "Total Net Revenue",
+      "statement_group": "Subtotal",
+      "value": 23640,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2020,
+      "line_item_code": "IS_REV_TOT",
+      "line_item": "Total Net Revenue",
+      "statement_group": "Subtotal",
+      "value": 19844,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2021,
+      "line_item_code": "IS_REV_TOT",
+      "line_item": "Total Net Revenue",
+      "statement_group": "Subtotal",
+      "value": 21234,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2022,
+      "line_item_code": "IS_REV_TOT",
+      "line_item": "Total Net Revenue",
+      "statement_group": "Subtotal",
+      "value": 22511,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2023,
+      "line_item_code": "IS_REV_TOT",
+      "line_item": "Total Net Revenue",
+      "statement_group": "Subtotal",
+      "value": 21427,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2016,
+      "line_item_code": "IS_COGS",
+      "line_item": "Cost of Goods Sold",
+      "statement_group": "Cost",
+      "value": -9500,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2017,
+      "line_item_code": "IS_COGS",
+      "line_item": "Cost of Goods Sold",
+      "statement_group": "Cost",
+      "value": -10524,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2018,
+      "line_item_code": "IS_COGS",
+      "line_item": "Cost of Goods Sold",
+      "statement_group": "Cost",
+      "value": -10607,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2019,
+      "line_item_code": "IS_COGS",
+      "line_item": "Cost of Goods Sold",
+      "statement_group": "Cost",
+      "value": -11347,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2020,
+      "line_item_code": "IS_COGS",
+      "line_item": "Cost of Goods Sold",
+      "statement_group": "Cost",
+      "value": -9982,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2021,
+      "line_item_code": "IS_COGS",
+      "line_item": "Cost of Goods Sold",
+      "statement_group": "Cost",
+      "value": -10511,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2022,
+      "line_item_code": "IS_COGS",
+      "line_item": "Cost of Goods Sold",
+      "statement_group": "Cost",
+      "value": -11863,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2023,
+      "line_item_code": "IS_COGS",
+      "line_item": "Cost of Goods Sold",
+      "statement_group": "Cost",
+      "value": -11249,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2016,
+      "line_item_code": "IS_GP",
+      "line_item": "Gross Profit",
+      "statement_group": "Subtotal",
+      "value": 8983,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2017,
+      "line_item_code": "IS_GP",
+      "line_item": "Gross Profit",
+      "statement_group": "Subtotal",
+      "value": 10694,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2018,
+      "line_item_code": "IS_GP",
+      "line_item": "Gross Profit",
+      "statement_group": "Subtotal",
+      "value": 11308,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2019,
+      "line_item_code": "IS_GP",
+      "line_item": "Gross Profit",
+      "statement_group": "Subtotal",
+      "value": 12293,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2020,
+      "line_item_code": "IS_GP",
+      "line_item": "Gross Profit",
+      "statement_group": "Subtotal",
+      "value": 9862,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2021,
+      "line_item_code": "IS_GP",
+      "line_item": "Gross Profit",
+      "statement_group": "Subtotal",
+      "value": 10723,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2022,
+      "line_item_code": "IS_GP",
+      "line_item": "Gross Profit",
+      "statement_group": "Subtotal",
+      "value": 10648,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2023,
+      "line_item_code": "IS_GP",
+      "line_item": "Gross Profit",
+      "statement_group": "Subtotal",
+      "value": 10178,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2016,
+      "line_item_code": "IS_ROY",
+      "line_item": "Royalty and Commission Income",
+      "statement_group": "Other income",
+      "value": 108,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2017,
+      "line_item_code": "IS_ROY",
+      "line_item": "Royalty and Commission Income",
+      "statement_group": "Other income",
+      "value": 115,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2018,
+      "line_item_code": "IS_ROY",
+      "line_item": "Royalty and Commission Income",
+      "statement_group": "Other income",
+      "value": 121,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2019,
+      "line_item_code": "IS_ROY",
+      "line_item": "Royalty and Commission Income",
+      "statement_group": "Other income",
+      "value": 130,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2020,
+      "line_item_code": "IS_ROY",
+      "line_item": "Royalty and Commission Income",
+      "statement_group": "Other income",
+      "value": 96,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2021,
+      "line_item_code": "IS_ROY",
+      "line_item": "Royalty and Commission Income",
+      "statement_group": "Other income",
+      "value": 104,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2022,
+      "line_item_code": "IS_ROY",
+      "line_item": "Royalty and Commission Income",
+      "statement_group": "Other income",
+      "value": 112,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2023,
+      "line_item_code": "IS_ROY",
+      "line_item": "Royalty and Commission Income",
+      "statement_group": "Other income",
+      "value": 107,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2016,
+      "line_item_code": "IS_OOI",
+      "line_item": "Other Operating Income",
+      "statement_group": "Other income",
+      "value": 60,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2017,
+      "line_item_code": "IS_OOI",
+      "line_item": "Other Operating Income",
+      "statement_group": "Other income",
+      "value": 66,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2018,
+      "line_item_code": "IS_OOI",
+      "line_item": "Other Operating Income",
+      "statement_group": "Other income",
+      "value": 71,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2019,
+      "line_item_code": "IS_OOI",
+      "line_item": "Other Operating Income",
+      "statement_group": "Other income",
+      "value": 78,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2020,
+      "line_item_code": "IS_OOI",
+      "line_item": "Other Operating Income",
+      "statement_group": "Other income",
+      "value": 52,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2021,
+      "line_item_code": "IS_OOI",
+      "line_item": "Other Operating Income",
+      "statement_group": "Other income",
+      "value": 58,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2022,
+      "line_item_code": "IS_OOI",
+      "line_item": "Other Operating Income",
+      "statement_group": "Other income",
+      "value": 63,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2023,
+      "line_item_code": "IS_OOI",
+      "line_item": "Other Operating Income",
+      "statement_group": "Other income",
+      "value": 55,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2016,
+      "line_item_code": "IS_MKT",
+      "line_item": "Marketing and Point-of-Sale",
+      "statement_group": "Operating expense",
+      "value": -2532,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2017,
+      "line_item_code": "IS_MKT",
+      "line_item": "Marketing and Point-of-Sale",
+      "statement_group": "Operating expense",
+      "value": -2843,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2018,
+      "line_item_code": "IS_MKT",
+      "line_item": "Marketing and Point-of-Sale",
+      "statement_group": "Operating expense",
+      "value": -2871,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2019,
+      "line_item_code": "IS_MKT",
+      "line_item": "Marketing and Point-of-Sale",
+      "statement_group": "Operating expense",
+      "value": -3026,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2020,
+      "line_item_code": "IS_MKT",
+      "line_item": "Marketing and Point-of-Sale",
+      "statement_group": "Operating expense",
+      "value": -2361,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2021,
+      "line_item_code": "IS_MKT",
+      "line_item": "Marketing and Point-of-Sale",
+      "statement_group": "Operating expense",
+      "value": -2569,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2022,
+      "line_item_code": "IS_MKT",
+      "line_item": "Marketing and Point-of-Sale",
+      "statement_group": "Operating expense",
+      "value": -2791,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2023,
+      "line_item_code": "IS_MKT",
+      "line_item": "Marketing and Point-of-Sale",
+      "statement_group": "Operating expense",
+      "value": -2636,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2016,
+      "line_item_code": "IS_DIST",
+      "line_item": "Distribution and Selling Expense",
+      "statement_group": "Operating expense",
+      "value": -4029,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2017,
+      "line_item_code": "IS_DIST",
+      "line_item": "Distribution and Selling Expense",
+      "statement_group": "Operating expense",
+      "value": -4710,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2018,
+      "line_item_code": "IS_DIST",
+      "line_item": "Distribution and Selling Expense",
+      "statement_group": "Operating expense",
+      "value": -4909,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2019,
+      "line_item_code": "IS_DIST",
+      "line_item": "Distribution and Selling Expense",
+      "statement_group": "Operating expense",
+      "value": -5272,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2020,
+      "line_item_code": "IS_DIST",
+      "line_item": "Distribution and Selling Expense",
+      "statement_group": "Operating expense",
+      "value": -5358,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2021,
+      "line_item_code": "IS_DIST",
+      "line_item": "Distribution and Selling Expense",
+      "statement_group": "Operating expense",
+      "value": -4969,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2022,
+      "line_item_code": "IS_DIST",
+      "line_item": "Distribution and Selling Expense",
+      "statement_group": "Operating expense",
+      "value": -5470,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2023,
+      "line_item_code": "IS_DIST",
+      "line_item": "Distribution and Selling Expense",
+      "statement_group": "Operating expense",
+      "value": -5528,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2016,
+      "line_item_code": "IS_GNA",
+      "line_item": "General & Administration",
+      "statement_group": "Operating expense",
+      "value": -998,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2017,
+      "line_item_code": "IS_GNA",
+      "line_item": "General & Administration",
+      "statement_group": "Operating expense",
+      "value": -1125,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2018,
+      "line_item_code": "IS_GNA",
+      "line_item": "General & Administration",
+      "statement_group": "Operating expense",
+      "value": -1140,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2019,
+      "line_item_code": "IS_GNA",
+      "line_item": "General & Administration",
+      "statement_group": "Operating expense",
+      "value": -1347,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2020,
+      "line_item_code": "IS_GNA",
+      "line_item": "General & Administration",
+      "statement_group": "Operating expense",
+      "value": -1290,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2021,
+      "line_item_code": "IS_GNA",
+      "line_item": "General & Administration",
+      "statement_group": "Operating expense",
+      "value": -1295,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2022,
+      "line_item_code": "IS_GNA",
+      "line_item": "General & Administration",
+      "statement_group": "Operating expense",
+      "value": -1756,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2023,
+      "line_item_code": "IS_GNA",
+      "line_item": "General & Administration",
+      "statement_group": "Operating expense",
+      "value": -1564,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2016,
+      "line_item_code": "IS_SUN",
+      "line_item": "Sundry Expenses",
+      "statement_group": "Operating expense",
+      "value": -185,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2017,
+      "line_item_code": "IS_SUN",
+      "line_item": "Sundry Expenses",
+      "statement_group": "Operating expense",
+      "value": -212,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2018,
+      "line_item_code": "IS_SUN",
+      "line_item": "Sundry Expenses",
+      "statement_group": "Operating expense",
+      "value": -219,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2019,
+      "line_item_code": "IS_SUN",
+      "line_item": "Sundry Expenses",
+      "statement_group": "Operating expense",
+      "value": -236,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2020,
+      "line_item_code": "IS_SUN",
+      "line_item": "Sundry Expenses",
+      "statement_group": "Operating expense",
+      "value": -198,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2021,
+      "line_item_code": "IS_SUN",
+      "line_item": "Sundry Expenses",
+      "statement_group": "Operating expense",
+      "value": -212,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2022,
+      "line_item_code": "IS_SUN",
+      "line_item": "Sundry Expenses",
+      "statement_group": "Operating expense",
+      "value": -225,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2023,
+      "line_item_code": "IS_SUN",
+      "line_item": "Sundry Expenses",
+      "statement_group": "Operating expense",
+      "value": -257,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2016,
+      "line_item_code": "IS_OOE",
+      "line_item": "Total Other Operating Exp.",
+      "statement_group": "Subtotal",
+      "value": -7744,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2017,
+      "line_item_code": "IS_OOE",
+      "line_item": "Total Other Operating Exp.",
+      "statement_group": "Subtotal",
+      "value": -8890,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2018,
+      "line_item_code": "IS_OOE",
+      "line_item": "Total Other Operating Exp.",
+      "statement_group": "Subtotal",
+      "value": -9139,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2019,
+      "line_item_code": "IS_OOE",
+      "line_item": "Total Other Operating Exp.",
+      "statement_group": "Subtotal",
+      "value": -9881,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2020,
+      "line_item_code": "IS_OOE",
+      "line_item": "Total Other Operating Exp.",
+      "statement_group": "Subtotal",
+      "value": -9207,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2021,
+      "line_item_code": "IS_OOE",
+      "line_item": "Total Other Operating Exp.",
+      "statement_group": "Subtotal",
+      "value": -9045,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2022,
+      "line_item_code": "IS_OOE",
+      "line_item": "Total Other Operating Exp.",
+      "statement_group": "Subtotal",
+      "value": -10242,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2023,
+      "line_item_code": "IS_OOE",
+      "line_item": "Total Other Operating Exp.",
+      "statement_group": "Subtotal",
+      "value": -9985,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2016,
+      "line_item_code": "IS_IMP",
+      "line_item": "Goodwill / Intangible Impairment",
+      "statement_group": "Operating expense",
+      "value": null,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2017,
+      "line_item_code": "IS_IMP",
+      "line_item": "Goodwill / Intangible Impairment",
+      "statement_group": "Operating expense",
+      "value": null,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2018,
+      "line_item_code": "IS_IMP",
+      "line_item": "Goodwill / Intangible Impairment",
+      "statement_group": "Operating expense",
+      "value": null,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2019,
+      "line_item_code": "IS_IMP",
+      "line_item": "Goodwill / Intangible Impairment",
+      "statement_group": "Operating expense",
+      "value": null,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2020,
+      "line_item_code": "IS_IMP",
+      "line_item": "Goodwill / Intangible Impairment",
+      "statement_group": "Operating expense",
+      "value": null,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2021,
+      "line_item_code": "IS_IMP",
+      "line_item": "Goodwill / Intangible Impairment",
+      "statement_group": "Operating expense",
+      "value": null,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2022,
+      "line_item_code": "IS_IMP",
+      "line_item": "Goodwill / Intangible Impairment",
+      "statement_group": "Operating expense",
+      "value": -194,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2023,
+      "line_item_code": "IS_IMP",
+      "line_item": "Goodwill / Intangible Impairment",
+      "statement_group": "Operating expense",
+      "value": null,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2016,
+      "line_item_code": "IS_EBIT",
+      "line_item": "Operating Profit (EBIT)",
+      "statement_group": "Subtotal",
+      "value": 1407,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2017,
+      "line_item_code": "IS_EBIT",
+      "line_item": "Operating Profit (EBIT)",
+      "statement_group": "Subtotal",
+      "value": 1985,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2018,
+      "line_item_code": "IS_EBIT",
+      "line_item": "Operating Profit (EBIT)",
+      "statement_group": "Subtotal",
+      "value": 2361,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2019,
+      "line_item_code": "IS_EBIT",
+      "line_item": "Operating Profit (EBIT)",
+      "statement_group": "Subtotal",
+      "value": 2620,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2020,
+      "line_item_code": "IS_EBIT",
+      "line_item": "Operating Profit (EBIT)",
+      "statement_group": "Subtotal",
+      "value": 803,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2021,
+      "line_item_code": "IS_EBIT",
+      "line_item": "Operating Profit (EBIT)",
+      "statement_group": "Subtotal",
+      "value": 1840,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2022,
+      "line_item_code": "IS_EBIT",
+      "line_item": "Operating Profit (EBIT)",
+      "statement_group": "Subtotal",
+      "value": 387,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2023,
+      "line_item_code": "IS_EBIT",
+      "line_item": "Operating Profit (EBIT)",
+      "statement_group": "Subtotal",
+      "value": 355,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2016,
+      "line_item_code": "IS_FININC",
+      "line_item": "Financial Income",
+      "statement_group": "Financial",
+      "value": 20,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2017,
+      "line_item_code": "IS_FININC",
+      "line_item": "Financial Income",
+      "statement_group": "Financial",
+      "value": 24,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2018,
+      "line_item_code": "IS_FININC",
+      "line_item": "Financial Income",
+      "statement_group": "Financial",
+      "value": 28,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2019,
+      "line_item_code": "IS_FININC",
+      "line_item": "Financial Income",
+      "statement_group": "Financial",
+      "value": 32,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2020,
+      "line_item_code": "IS_FININC",
+      "line_item": "Financial Income",
+      "statement_group": "Financial",
+      "value": 26,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2021,
+      "line_item_code": "IS_FININC",
+      "line_item": "Financial Income",
+      "statement_group": "Financial",
+      "value": 30,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2022,
+      "line_item_code": "IS_FININC",
+      "line_item": "Financial Income",
+      "statement_group": "Financial",
+      "value": 44,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2023,
+      "line_item_code": "IS_FININC",
+      "line_item": "Financial Income",
+      "statement_group": "Financial",
+      "value": 62,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2016,
+      "line_item_code": "IS_FINEXP",
+      "line_item": "Financial Expenses",
+      "statement_group": "Financial",
+      "value": -74,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2017,
+      "line_item_code": "IS_FINEXP",
+      "line_item": "Financial Expenses",
+      "statement_group": "Financial",
+      "value": -82,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2018,
+      "line_item_code": "IS_FINEXP",
+      "line_item": "Financial Expenses",
+      "statement_group": "Financial",
+      "value": -91,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2019,
+      "line_item_code": "IS_FINEXP",
+      "line_item": "Financial Expenses",
+      "statement_group": "Financial",
+      "value": -166,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2020,
+      "line_item_code": "IS_FINEXP",
+      "line_item": "Financial Expenses",
+      "statement_group": "Financial",
+      "value": -178,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2021,
+      "line_item_code": "IS_FINEXP",
+      "line_item": "Financial Expenses",
+      "statement_group": "Financial",
+      "value": -172,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2022,
+      "line_item_code": "IS_FINEXP",
+      "line_item": "Financial Expenses",
+      "statement_group": "Financial",
+      "value": -199,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2023,
+      "line_item_code": "IS_FINEXP",
+      "line_item": "Financial Expenses",
+      "statement_group": "Financial",
+      "value": -242,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2016,
+      "line_item_code": "IS_EBT",
+      "line_item": "Income Before Taxes",
+      "statement_group": "Subtotal",
+      "value": 1353,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2017,
+      "line_item_code": "IS_EBT",
+      "line_item": "Income Before Taxes",
+      "statement_group": "Subtotal",
+      "value": 1927,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2018,
+      "line_item_code": "IS_EBT",
+      "line_item": "Income Before Taxes",
+      "statement_group": "Subtotal",
+      "value": 2298,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2019,
+      "line_item_code": "IS_EBT",
+      "line_item": "Income Before Taxes",
+      "statement_group": "Subtotal",
+      "value": 2486,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2020,
+      "line_item_code": "IS_EBT",
+      "line_item": "Income Before Taxes",
+      "statement_group": "Subtotal",
+      "value": 651,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2021,
+      "line_item_code": "IS_EBT",
+      "line_item": "Income Before Taxes",
+      "statement_group": "Subtotal",
+      "value": 1698,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2022,
+      "line_item_code": "IS_EBT",
+      "line_item": "Income Before Taxes",
+      "statement_group": "Subtotal",
+      "value": 232,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2023,
+      "line_item_code": "IS_EBT",
+      "line_item": "Income Before Taxes",
+      "statement_group": "Subtotal",
+      "value": 175,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2016,
+      "line_item_code": "IS_TAX",
+      "line_item": "Income Tax Expense",
+      "statement_group": "Tax",
+      "value": -392,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2017,
+      "line_item_code": "IS_TAX",
+      "line_item": "Income Tax Expense",
+      "statement_group": "Tax",
+      "value": -540,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2018,
+      "line_item_code": "IS_TAX",
+      "line_item": "Income Tax Expense",
+      "statement_group": "Tax",
+      "value": -597,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2019,
+      "line_item_code": "IS_TAX",
+      "line_item": "Income Tax Expense",
+      "statement_group": "Tax",
+      "value": -622,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2020,
+      "line_item_code": "IS_TAX",
+      "line_item": "Income Tax Expense",
+      "statement_group": "Tax",
+      "value": -228,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2021,
+      "line_item_code": "IS_TAX",
+      "line_item": "Income Tax Expense",
+      "statement_group": "Tax",
+      "value": -475,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2022,
+      "line_item_code": "IS_TAX",
+      "line_item": "Income Tax Expense",
+      "statement_group": "Tax",
+      "value": -174,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2023,
+      "line_item_code": "IS_TAX",
+      "line_item": "Income Tax Expense",
+      "statement_group": "Tax",
+      "value": -201,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2016,
+      "line_item_code": "IS_NICONT",
+      "line_item": "Net Income from Continuing Ops.",
+      "statement_group": "Subtotal",
+      "value": 961,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2017,
+      "line_item_code": "IS_NICONT",
+      "line_item": "Net Income from Continuing Ops.",
+      "statement_group": "Subtotal",
+      "value": 1387,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2018,
+      "line_item_code": "IS_NICONT",
+      "line_item": "Net Income from Continuing Ops.",
+      "statement_group": "Subtotal",
+      "value": 1701,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2019,
+      "line_item_code": "IS_NICONT",
+      "line_item": "Net Income from Continuing Ops.",
+      "statement_group": "Subtotal",
+      "value": 1864,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2020,
+      "line_item_code": "IS_NICONT",
+      "line_item": "Net Income from Continuing Ops.",
+      "statement_group": "Subtotal",
+      "value": 423,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2021,
+      "line_item_code": "IS_NICONT",
+      "line_item": "Net Income from Continuing Ops.",
+      "statement_group": "Subtotal",
+      "value": 1223,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2022,
+      "line_item_code": "IS_NICONT",
+      "line_item": "Net Income from Continuing Ops.",
+      "statement_group": "Subtotal",
+      "value": 58,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2023,
+      "line_item_code": "IS_NICONT",
+      "line_item": "Net Income from Continuing Ops.",
+      "statement_group": "Subtotal",
+      "value": -26,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2016,
+      "line_item_code": "IS_NIDISC",
+      "line_item": "Net Income from Disc. Operations",
+      "statement_group": "Subtotal",
+      "value": null,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2017,
+      "line_item_code": "IS_NIDISC",
+      "line_item": "Net Income from Disc. Operations",
+      "statement_group": "Subtotal",
+      "value": null,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2018,
+      "line_item_code": "IS_NIDISC",
+      "line_item": "Net Income from Disc. Operations",
+      "statement_group": "Subtotal",
+      "value": null,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2019,
+      "line_item_code": "IS_NIDISC",
+      "line_item": "Net Income from Disc. Operations",
+      "statement_group": "Subtotal",
+      "value": null,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2020,
+      "line_item_code": "IS_NIDISC",
+      "line_item": "Net Income from Disc. Operations",
+      "statement_group": "Subtotal",
+      "value": -70,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2021,
+      "line_item_code": "IS_NIDISC",
+      "line_item": "Net Income from Disc. Operations",
+      "statement_group": "Subtotal",
+      "value": 232,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2022,
+      "line_item_code": "IS_NIDISC",
+      "line_item": "Net Income from Disc. Operations",
+      "statement_group": "Subtotal",
+      "value": null,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2023,
+      "line_item_code": "IS_NIDISC",
+      "line_item": "Net Income from Disc. Operations",
+      "statement_group": "Subtotal",
+      "value": null,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2016,
+      "line_item_code": "IS_NI",
+      "line_item": "Net Income (Total)",
+      "statement_group": "Subtotal",
+      "value": 961,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2017,
+      "line_item_code": "IS_NI",
+      "line_item": "Net Income (Total)",
+      "statement_group": "Subtotal",
+      "value": 1387,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2018,
+      "line_item_code": "IS_NI",
+      "line_item": "Net Income (Total)",
+      "statement_group": "Subtotal",
+      "value": 1701,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2019,
+      "line_item_code": "IS_NI",
+      "line_item": "Net Income (Total)",
+      "statement_group": "Subtotal",
+      "value": 1864,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2020,
+      "line_item_code": "IS_NI",
+      "line_item": "Net Income (Total)",
+      "statement_group": "Subtotal",
+      "value": 353,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2021,
+      "line_item_code": "IS_NI",
+      "line_item": "Net Income (Total)",
+      "statement_group": "Subtotal",
+      "value": 1455,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2022,
+      "line_item_code": "IS_NI",
+      "line_item": "Net Income (Total)",
+      "statement_group": "Subtotal",
+      "value": 58,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2023,
+      "line_item_code": "IS_NI",
+      "line_item": "Net Income (Total)",
+      "statement_group": "Subtotal",
+      "value": -26,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2016,
+      "line_item_code": "IS_MI",
+      "line_item": "Less: Minority Interest",
+      "statement_group": "Subtotal",
+      "value": -12,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2017,
+      "line_item_code": "IS_MI",
+      "line_item": "Less: Minority Interest",
+      "statement_group": "Subtotal",
+      "value": -14,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2018,
+      "line_item_code": "IS_MI",
+      "line_item": "Less: Minority Interest",
+      "statement_group": "Subtotal",
+      "value": -11,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2019,
+      "line_item_code": "IS_MI",
+      "line_item": "Less: Minority Interest",
+      "statement_group": "Subtotal",
+      "value": -9,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2020,
+      "line_item_code": "IS_MI",
+      "line_item": "Less: Minority Interest",
+      "statement_group": "Subtotal",
+      "value": -6,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2021,
+      "line_item_code": "IS_MI",
+      "line_item": "Less: Minority Interest",
+      "statement_group": "Subtotal",
+      "value": -8,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2022,
+      "line_item_code": "IS_MI",
+      "line_item": "Less: Minority Interest",
+      "statement_group": "Subtotal",
+      "value": -8,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2023,
+      "line_item_code": "IS_MI",
+      "line_item": "Less: Minority Interest",
+      "statement_group": "Subtotal",
+      "value": -7,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2016,
+      "line_item_code": "IS_NISH",
+      "line_item": "Net Income Attrib. to Shareholders",
+      "statement_group": "Subtotal",
+      "value": 949,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2017,
+      "line_item_code": "IS_NISH",
+      "line_item": "Net Income Attrib. to Shareholders",
+      "statement_group": "Subtotal",
+      "value": 1373,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2018,
+      "line_item_code": "IS_NISH",
+      "line_item": "Net Income Attrib. to Shareholders",
+      "statement_group": "Subtotal",
+      "value": 1690,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2019,
+      "line_item_code": "IS_NISH",
+      "line_item": "Net Income Attrib. to Shareholders",
+      "statement_group": "Subtotal",
+      "value": 1855,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2020,
+      "line_item_code": "IS_NISH",
+      "line_item": "Net Income Attrib. to Shareholders",
+      "statement_group": "Subtotal",
+      "value": 347,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2021,
+      "line_item_code": "IS_NISH",
+      "line_item": "Net Income Attrib. to Shareholders",
+      "statement_group": "Subtotal",
+      "value": 1447,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2022,
+      "line_item_code": "IS_NISH",
+      "line_item": "Net Income Attrib. to Shareholders",
+      "statement_group": "Subtotal",
+      "value": 50,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2023,
+      "line_item_code": "IS_NISH",
+      "line_item": "Net Income Attrib. to Shareholders",
+      "statement_group": "Subtotal",
+      "value": -33,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2016,
+      "line_item_code": "IS_EPSB",
+      "line_item": "Basic EPS",
+      "statement_group": "Per share",
+      "value": 4.72,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2017,
+      "line_item_code": "IS_EPSB",
+      "line_item": "Basic EPS",
+      "statement_group": "Per share",
+      "value": 6.78,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2018,
+      "line_item_code": "IS_EPSB",
+      "line_item": "Basic EPS",
+      "statement_group": "Per share",
+      "value": 8.45,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2019,
+      "line_item_code": "IS_EPSB",
+      "line_item": "Basic EPS",
+      "statement_group": "Per share",
+      "value": 9.48,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2020,
+      "line_item_code": "IS_EPSB",
+      "line_item": "Basic EPS",
+      "statement_group": "Per share",
+      "value": 1.79,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2021,
+      "line_item_code": "IS_EPSB",
+      "line_item": "Basic EPS",
+      "statement_group": "Per share",
+      "value": 7.39,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2022,
+      "line_item_code": "IS_EPSB",
+      "line_item": "Basic EPS",
+      "statement_group": "Per share",
+      "value": 0.27,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2023,
+      "line_item_code": "IS_EPSB",
+      "line_item": "Basic EPS",
+      "statement_group": "Per share",
+      "value": -0.18,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2016,
+      "line_item_code": "IS_EPSD",
+      "line_item": "Diluted EPS",
+      "statement_group": "Per share",
+      "value": 4.7,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2017,
+      "line_item_code": "IS_EPSD",
+      "line_item": "Diluted EPS",
+      "statement_group": "Per share",
+      "value": 6.75,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2018,
+      "line_item_code": "IS_EPSD",
+      "line_item": "Diluted EPS",
+      "statement_group": "Per share",
+      "value": 8.42,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2019,
+      "line_item_code": "IS_EPSD",
+      "line_item": "Diluted EPS",
+      "statement_group": "Per share",
+      "value": 9.44,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2020,
+      "line_item_code": "IS_EPSD",
+      "line_item": "Diluted EPS",
+      "statement_group": "Per share",
+      "value": 1.78,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2021,
+      "line_item_code": "IS_EPSD",
+      "line_item": "Diluted EPS",
+      "statement_group": "Per share",
+      "value": 7.36,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2022,
+      "line_item_code": "IS_EPSD",
+      "line_item": "Diluted EPS",
+      "statement_group": "Per share",
+      "value": 0.27,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2023,
+      "line_item_code": "IS_EPSD",
+      "line_item": "Diluted EPS",
+      "statement_group": "Per share",
+      "value": -0.18,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2016,
+      "line_item_code": "IS_WAVGB",
+      "line_item": "Wtd. Avg Shares - Basic (mn)",
+      "statement_group": "Per share",
+      "value": 201,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2017,
+      "line_item_code": "IS_WAVGB",
+      "line_item": "Wtd. Avg Shares - Basic (mn)",
+      "statement_group": "Per share",
+      "value": 202.5,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2018,
+      "line_item_code": "IS_WAVGB",
+      "line_item": "Wtd. Avg Shares - Basic (mn)",
+      "statement_group": "Per share",
+      "value": 200,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2019,
+      "line_item_code": "IS_WAVGB",
+      "line_item": "Wtd. Avg Shares - Basic (mn)",
+      "statement_group": "Per share",
+      "value": 195.7,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2020,
+      "line_item_code": "IS_WAVGB",
+      "line_item": "Wtd. Avg Shares - Basic (mn)",
+      "statement_group": "Per share",
+      "value": 194.3,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2021,
+      "line_item_code": "IS_WAVGB",
+      "line_item": "Wtd. Avg Shares - Basic (mn)",
+      "statement_group": "Per share",
+      "value": 195.8,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2022,
+      "line_item_code": "IS_WAVGB",
+      "line_item": "Wtd. Avg Shares - Basic (mn)",
+      "statement_group": "Per share",
+      "value": 183.5,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2023,
+      "line_item_code": "IS_WAVGB",
+      "line_item": "Wtd. Avg Shares - Basic (mn)",
+      "statement_group": "Per share",
+      "value": 178.6,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2016,
+      "line_item_code": "IS_WAVGD",
+      "line_item": "Wtd. Avg Shares - Diluted (mn)",
+      "statement_group": "Per share",
+      "value": 201.8,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2017,
+      "line_item_code": "IS_WAVGD",
+      "line_item": "Wtd. Avg Shares - Diluted (mn)",
+      "statement_group": "Per share",
+      "value": 203.3,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2018,
+      "line_item_code": "IS_WAVGD",
+      "line_item": "Wtd. Avg Shares - Diluted (mn)",
+      "statement_group": "Per share",
+      "value": 200.8,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2019,
+      "line_item_code": "IS_WAVGD",
+      "line_item": "Wtd. Avg Shares - Diluted (mn)",
+      "statement_group": "Per share",
+      "value": 196.5,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2020,
+      "line_item_code": "IS_WAVGD",
+      "line_item": "Wtd. Avg Shares - Diluted (mn)",
+      "statement_group": "Per share",
+      "value": 195.1,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2021,
+      "line_item_code": "IS_WAVGD",
+      "line_item": "Wtd. Avg Shares - Diluted (mn)",
+      "statement_group": "Per share",
+      "value": 196.6,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2022,
+      "line_item_code": "IS_WAVGD",
+      "line_item": "Wtd. Avg Shares - Diluted (mn)",
+      "statement_group": "Per share",
+      "value": 184.2,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2023,
+      "line_item_code": "IS_WAVGD",
+      "line_item": "Wtd. Avg Shares - Diluted (mn)",
+      "statement_group": "Per share",
+      "value": 179.3,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2016,
+      "line_item_code": "IS_DPS",
+      "line_item": "Dividend Per Share (DPS)",
+      "statement_group": "Per share",
+      "value": 2,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2017,
+      "line_item_code": "IS_DPS",
+      "line_item": "Dividend Per Share (DPS)",
+      "statement_group": "Per share",
+      "value": 2.6,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2018,
+      "line_item_code": "IS_DPS",
+      "line_item": "Dividend Per Share (DPS)",
+      "statement_group": "Per share",
+      "value": 3.35,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2019,
+      "line_item_code": "IS_DPS",
+      "line_item": "Dividend Per Share (DPS)",
+      "statement_group": "Per share",
+      "value": 3.85,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2020,
+      "line_item_code": "IS_DPS",
+      "line_item": "Dividend Per Share (DPS)",
+      "statement_group": "Per share",
+      "value": null,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2021,
+      "line_item_code": "IS_DPS",
+      "line_item": "Dividend Per Share (DPS)",
+      "statement_group": "Per share",
+      "value": 3.3,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2022,
+      "line_item_code": "IS_DPS",
+      "line_item": "Dividend Per Share (DPS)",
+      "statement_group": "Per share",
+      "value": 0.7,
+      "sheet": "ADS GY Equity"
+    },
+    {
+      "fiscal_year": 2023,
+      "line_item_code": "IS_DPS",
+      "line_item": "Dividend Per Share (DPS)",
+      "statement_group": "Per share",
+      "value": 0.7,
+      "sheet": "ADS GY Equity"
+    }
+  ],
+  "IncomeStatement_Wide": [
+    {
+      "fiscal_year": 2016,
+      "IS_COGS": -9500,
+      "IS_DIST": -4029,
+      "IS_DPS": 2,
+      "IS_EBIT": 1407,
+      "IS_EBT": 1353,
+      "IS_EPSB": 4.72,
+      "IS_EPSD": 4.7,
+      "IS_FINEXP": -74,
+      "IS_FININC": 20,
+      "IS_GNA": -998,
+      "IS_GP": 8983,
+      "IS_IMP": null,
+      "IS_MI": -12,
+      "IS_MKT": -2532,
+      "IS_NI": 961,
+      "IS_NICONT": 961,
+      "IS_NIDISC": null,
+      "IS_NISH": 949,
+      "IS_OOE": -7744,
+      "IS_OOI": 60,
+      "IS_REV_OTH": 979,
+      "IS_REV_RT": 5841,
+      "IS_REV_TOT": 18483,
+      "IS_REV_WS": 11663,
+      "IS_ROY": 108,
+      "IS_SUN": -185,
+      "IS_TAX": -392,
+      "IS_WAVGB": 201,
+      "IS_WAVGD": 201.8
+    },
+    {
+      "fiscal_year": 2017,
+      "IS_COGS": -10524,
+      "IS_DIST": -4710,
+      "IS_DPS": 2.6,
+      "IS_EBIT": 1985,
+      "IS_EBT": 1927,
+      "IS_EPSB": 6.78,
+      "IS_EPSD": 6.75,
+      "IS_FINEXP": -82,
+      "IS_FININC": 24,
+      "IS_GNA": -1125,
+      "IS_GP": 10694,
+      "IS_IMP": null,
+      "IS_MI": -14,
+      "IS_MKT": -2843,
+      "IS_NI": 1387,
+      "IS_NICONT": 1387,
+      "IS_NIDISC": null,
+      "IS_NISH": 1373,
+      "IS_OOE": -8890,
+      "IS_OOI": 66,
+      "IS_REV_OTH": 1103,
+      "IS_REV_RT": 7172,
+      "IS_REV_TOT": 21218,
+      "IS_REV_WS": 12943,
+      "IS_ROY": 115,
+      "IS_SUN": -212,
+      "IS_TAX": -540,
+      "IS_WAVGB": 202.5,
+      "IS_WAVGD": 203.3
+    },
+    {
+      "fiscal_year": 2018,
+      "IS_COGS": -10607,
+      "IS_DIST": -4909,
+      "IS_DPS": 3.35,
+      "IS_EBIT": 2361,
+      "IS_EBT": 2298,
+      "IS_EPSB": 8.45,
+      "IS_EPSD": 8.42,
+      "IS_FINEXP": -91,
+      "IS_FININC": 28,
+      "IS_GNA": -1140,
+      "IS_GP": 11308,
+      "IS_IMP": null,
+      "IS_MI": -11,
+      "IS_MKT": -2871,
+      "IS_NI": 1701,
+      "IS_NICONT": 1701,
+      "IS_NIDISC": null,
+      "IS_NISH": 1690,
+      "IS_OOE": -9139,
+      "IS_OOI": 71,
+      "IS_REV_OTH": 986,
+      "IS_REV_RT": 8196,
+      "IS_REV_TOT": 21915,
+      "IS_REV_WS": 12733,
+      "IS_ROY": 121,
+      "IS_SUN": -219,
+      "IS_TAX": -597,
+      "IS_WAVGB": 200,
+      "IS_WAVGD": 200.8
+    },
+    {
+      "fiscal_year": 2019,
+      "IS_COGS": -11347,
+      "IS_DIST": -5272,
+      "IS_DPS": 3.85,
+      "IS_EBIT": 2620,
+      "IS_EBT": 2486,
+      "IS_EPSB": 9.48,
+      "IS_EPSD": 9.44,
+      "IS_FINEXP": -166,
+      "IS_FININC": 32,
+      "IS_GNA": -1347,
+      "IS_GP": 12293,
+      "IS_IMP": null,
+      "IS_MI": -9,
+      "IS_MKT": -3026,
+      "IS_NI": 1864,
+      "IS_NICONT": 1864,
+      "IS_NIDISC": null,
+      "IS_NISH": 1855,
+      "IS_OOE": -9881,
+      "IS_OOI": 78,
+      "IS_REV_OTH": 969,
+      "IS_REV_RT": 9480,
+      "IS_REV_TOT": 23640,
+      "IS_REV_WS": 13191,
+      "IS_ROY": 130,
+      "IS_SUN": -236,
+      "IS_TAX": -622,
+      "IS_WAVGB": 195.7,
+      "IS_WAVGD": 196.5
+    },
+    {
+      "fiscal_year": 2020,
+      "IS_COGS": -9982,
+      "IS_DIST": -5358,
+      "IS_DPS": null,
+      "IS_EBIT": 803,
+      "IS_EBT": 651,
+      "IS_EPSB": 1.79,
+      "IS_EPSD": 1.78,
+      "IS_FINEXP": -178,
+      "IS_FININC": 26,
+      "IS_GNA": -1290,
+      "IS_GP": 9862,
+      "IS_IMP": null,
+      "IS_MI": -6,
+      "IS_MKT": -2361,
+      "IS_NI": 353,
+      "IS_NICONT": 423,
+      "IS_NIDISC": -70,
+      "IS_NISH": 347,
+      "IS_OOE": -9207,
+      "IS_OOI": 52,
+      "IS_REV_OTH": 714,
+      "IS_REV_RT": 8970,
+      "IS_REV_TOT": 19844,
+      "IS_REV_WS": 10160,
+      "IS_ROY": 96,
+      "IS_SUN": -198,
+      "IS_TAX": -228,
+      "IS_WAVGB": 194.3,
+      "IS_WAVGD": 195.1
+    },
+    {
+      "fiscal_year": 2021,
+      "IS_COGS": -10511,
+      "IS_DIST": -4969,
+      "IS_DPS": 3.3,
+      "IS_EBIT": 1840,
+      "IS_EBT": 1698,
+      "IS_EPSB": 7.39,
+      "IS_EPSD": 7.36,
+      "IS_FINEXP": -172,
+      "IS_FININC": 30,
+      "IS_GNA": -1295,
+      "IS_GP": 10723,
+      "IS_IMP": null,
+      "IS_MI": -8,
+      "IS_MKT": -2569,
+      "IS_NI": 1455,
+      "IS_NICONT": 1223,
+      "IS_NIDISC": 232,
+      "IS_NISH": 1447,
+      "IS_OOE": -9045,
+      "IS_OOI": 58,
+      "IS_REV_OTH": 658,
+      "IS_REV_RT": 9428,
+      "IS_REV_TOT": 21234,
+      "IS_REV_WS": 11148,
+      "IS_ROY": 104,
+      "IS_SUN": -212,
+      "IS_TAX": -475,
+      "IS_WAVGB": 195.8,
+      "IS_WAVGD": 196.6
+    },
+    {
+      "fiscal_year": 2022,
+      "IS_COGS": -11863,
+      "IS_DIST": -5470,
+      "IS_DPS": 0.7,
+      "IS_EBIT": 387,
+      "IS_EBT": 232,
+      "IS_EPSB": 0.27,
+      "IS_EPSD": 0.27,
+      "IS_FINEXP": -199,
+      "IS_FININC": 44,
+      "IS_GNA": -1756,
+      "IS_GP": 10648,
+      "IS_IMP": -194,
+      "IS_MI": -8,
+      "IS_MKT": -2791,
+      "IS_NI": 58,
+      "IS_NICONT": 58,
+      "IS_NIDISC": null,
+      "IS_NISH": 50,
+      "IS_OOE": -10242,
+      "IS_OOI": 63,
+      "IS_REV_OTH": 630,
+      "IS_REV_RT": 9725,
+      "IS_REV_TOT": 22511,
+      "IS_REV_WS": 12156,
+      "IS_ROY": 112,
+      "IS_SUN": -225,
+      "IS_TAX": -174,
+      "IS_WAVGB": 183.5,
+      "IS_WAVGD": 184.2
+    },
+    {
+      "fiscal_year": 2023,
+      "IS_COGS": -11249,
+      "IS_DIST": -5528,
+      "IS_DPS": 0.7,
+      "IS_EBIT": 355,
+      "IS_EBT": 175,
+      "IS_EPSB": -0.18,
+      "IS_EPSD": -0.18,
+      "IS_FINEXP": -242,
+      "IS_FININC": 62,
+      "IS_GNA": -1564,
+      "IS_GP": 10178,
+      "IS_IMP": null,
+      "IS_MI": -7,
+      "IS_MKT": -2636,
+      "IS_NI": -26,
+      "IS_NICONT": -26,
+      "IS_NIDISC": null,
+      "IS_NISH": -33,
+      "IS_OOE": -9985,
+      "IS_OOI": 55,
+      "IS_REV_OTH": 579,
+      "IS_REV_RT": 9706,
+      "IS_REV_TOT": 21427,
+      "IS_REV_WS": 11142,
+      "IS_ROY": 107,
+      "IS_SUN": -257,
+      "IS_TAX": -201,
+      "IS_WAVGB": 178.6,
+      "IS_WAVGD": 179.3
+    }
+  ],
+  "Segment_Tidy": [
+    {
+      "fiscal_year": 2016,
+      "dimension": "Product Category",
+      "segment": "Footwear",
+      "value": 10073
+    },
+    {
+      "fiscal_year": 2017,
+      "dimension": "Product Category",
+      "segment": "Footwear",
+      "value": 11712
+    },
+    {
+      "fiscal_year": 2018,
+      "dimension": "Product Category",
+      "segment": "Footwear",
+      "value": 12272
+    },
+    {
+      "fiscal_year": 2019,
+      "dimension": "Product Category",
+      "segment": "Footwear",
+      "value": 13380
+    },
+    {
+      "fiscal_year": 2020,
+      "dimension": "Product Category",
+      "segment": "Footwear",
+      "value": 11629
+    },
+    {
+      "fiscal_year": 2021,
+      "dimension": "Product Category",
+      "segment": "Footwear",
+      "value": 12252
+    },
+    {
+      "fiscal_year": 2022,
+      "dimension": "Product Category",
+      "segment": "Footwear",
+      "value": 12831
+    },
+    {
+      "fiscal_year": 2023,
+      "dimension": "Product Category",
+      "segment": "Footwear",
+      "value": 12470
+    },
+    {
+      "fiscal_year": 2016,
+      "dimension": "Product Category",
+      "segment": "Apparel",
+      "value": 7264
+    },
+    {
+      "fiscal_year": 2017,
+      "dimension": "Product Category",
+      "segment": "Apparel",
+      "value": 8190
+    },
+    {
+      "fiscal_year": 2018,
+      "dimension": "Product Category",
+      "segment": "Apparel",
+      "value": 8306
+    },
+    {
+      "fiscal_year": 2019,
+      "dimension": "Product Category",
+      "segment": "Apparel",
+      "value": 8865
+    },
+    {
+      "fiscal_year": 2020,
+      "dimension": "Product Category",
+      "segment": "Apparel",
+      "value": 7104
+    },
+    {
+      "fiscal_year": 2021,
+      "dimension": "Product Category",
+      "segment": "Apparel",
+      "value": 7772
+    },
+    {
+      "fiscal_year": 2022,
+      "dimension": "Product Category",
+      "segment": "Apparel",
+      "value": 8397
+    },
+    {
+      "fiscal_year": 2023,
+      "dimension": "Product Category",
+      "segment": "Apparel",
+      "value": 7757
+    },
+    {
+      "fiscal_year": 2016,
+      "dimension": "Product Category",
+      "segment": "Acc. & Gear",
+      "value": 1146
+    },
+    {
+      "fiscal_year": 2017,
+      "dimension": "Product Category",
+      "segment": "Acc. & Gear",
+      "value": 1316
+    },
+    {
+      "fiscal_year": 2018,
+      "dimension": "Product Category",
+      "segment": "Acc. & Gear",
+      "value": 1337
+    },
+    {
+      "fiscal_year": 2019,
+      "dimension": "Product Category",
+      "segment": "Acc. & Gear",
+      "value": 1395
+    },
+    {
+      "fiscal_year": 2020,
+      "dimension": "Product Category",
+      "segment": "Acc. & Gear",
+      "value": 1111
+    },
+    {
+      "fiscal_year": 2021,
+      "dimension": "Product Category",
+      "segment": "Acc. & Gear",
+      "value": 1210
+    },
+    {
+      "fiscal_year": 2022,
+      "dimension": "Product Category",
+      "segment": "Acc. & Gear",
+      "value": 1283
+    },
+    {
+      "fiscal_year": 2023,
+      "dimension": "Product Category",
+      "segment": "Acc. & Gear",
+      "value": 1200
+    },
+    {
+      "fiscal_year": 2016,
+      "dimension": "Brand",
+      "segment": "adidas",
+      "value": 16746
+    },
+    {
+      "fiscal_year": 2017,
+      "dimension": "Brand",
+      "segment": "adidas",
+      "value": 19457
+    },
+    {
+      "fiscal_year": 2018,
+      "dimension": "Brand",
+      "segment": "adidas",
+      "value": 20271
+    },
+    {
+      "fiscal_year": 2019,
+      "dimension": "Brand",
+      "segment": "adidas",
+      "value": 21985
+    },
+    {
+      "fiscal_year": 2020,
+      "dimension": "Brand",
+      "segment": "adidas",
+      "value": 18614
+    },
+    {
+      "fiscal_year": 2021,
+      "dimension": "Brand",
+      "segment": "adidas",
+      "value": 20045
+    },
+    {
+      "fiscal_year": 2022,
+      "dimension": "Brand",
+      "segment": "adidas",
+      "value": 22511
+    },
+    {
+      "fiscal_year": 2023,
+      "dimension": "Brand",
+      "segment": "adidas",
+      "value": 21427
+    },
+    {
+      "fiscal_year": 2016,
+      "dimension": "Brand",
+      "segment": "Reebok",
+      "value": 1737
+    },
+    {
+      "fiscal_year": 2017,
+      "dimension": "Brand",
+      "segment": "Reebok",
+      "value": 1761
+    },
+    {
+      "fiscal_year": 2018,
+      "dimension": "Brand",
+      "segment": "Reebok",
+      "value": 1644
+    },
+    {
+      "fiscal_year": 2019,
+      "dimension": "Brand",
+      "segment": "Reebok",
+      "value": 1655
+    },
+    {
+      "fiscal_year": 2020,
+      "dimension": "Brand",
+      "segment": "Reebok",
+      "value": 1230
+    },
+    {
+      "fiscal_year": 2021,
+      "dimension": "Brand",
+      "segment": "Reebok",
+      "value": 1189
+    },
+    {
+      "fiscal_year": 2022,
+      "dimension": "Brand",
+      "segment": "Reebok",
+      "value": null
+    },
+    {
+      "fiscal_year": 2023,
+      "dimension": "Brand",
+      "segment": "Reebok",
+      "value": null
+    },
+    {
+      "fiscal_year": 2016,
+      "dimension": "Distribution Channel",
+      "segment": "Wholesale",
+      "value": 11663
+    },
+    {
+      "fiscal_year": 2017,
+      "dimension": "Distribution Channel",
+      "segment": "Wholesale",
+      "value": 12943
+    },
+    {
+      "fiscal_year": 2018,
+      "dimension": "Distribution Channel",
+      "segment": "Wholesale",
+      "value": 12733
+    },
+    {
+      "fiscal_year": 2019,
+      "dimension": "Distribution Channel",
+      "segment": "Wholesale",
+      "value": 13191
+    },
+    {
+      "fiscal_year": 2020,
+      "dimension": "Distribution Channel",
+      "segment": "Wholesale",
+      "value": 10160
+    },
+    {
+      "fiscal_year": 2021,
+      "dimension": "Distribution Channel",
+      "segment": "Wholesale",
+      "value": 11148
+    },
+    {
+      "fiscal_year": 2022,
+      "dimension": "Distribution Channel",
+      "segment": "Wholesale",
+      "value": 12156
+    },
+    {
+      "fiscal_year": 2023,
+      "dimension": "Distribution Channel",
+      "segment": "Wholesale",
+      "value": 11142
+    },
+    {
+      "fiscal_year": 2016,
+      "dimension": "Distribution Channel",
+      "segment": "Retail",
+      "value": 5841
+    },
+    {
+      "fiscal_year": 2017,
+      "dimension": "Distribution Channel",
+      "segment": "Retail",
+      "value": 7172
+    },
+    {
+      "fiscal_year": 2018,
+      "dimension": "Distribution Channel",
+      "segment": "Retail",
+      "value": 8196
+    },
+    {
+      "fiscal_year": 2019,
+      "dimension": "Distribution Channel",
+      "segment": "Retail",
+      "value": 9480
+    },
+    {
+      "fiscal_year": 2020,
+      "dimension": "Distribution Channel",
+      "segment": "Retail",
+      "value": 8970
+    },
+    {
+      "fiscal_year": 2021,
+      "dimension": "Distribution Channel",
+      "segment": "Retail",
+      "value": 9428
+    },
+    {
+      "fiscal_year": 2022,
+      "dimension": "Distribution Channel",
+      "segment": "Retail",
+      "value": 9725
+    },
+    {
+      "fiscal_year": 2023,
+      "dimension": "Distribution Channel",
+      "segment": "Retail",
+      "value": 9706
+    },
+    {
+      "fiscal_year": 2016,
+      "dimension": "Distribution Channel",
+      "segment": "Other Businesses",
+      "value": 979
+    },
+    {
+      "fiscal_year": 2017,
+      "dimension": "Distribution Channel",
+      "segment": "Other Businesses",
+      "value": 1103
+    },
+    {
+      "fiscal_year": 2018,
+      "dimension": "Distribution Channel",
+      "segment": "Other Businesses",
+      "value": 986
+    },
+    {
+      "fiscal_year": 2019,
+      "dimension": "Distribution Channel",
+      "segment": "Other Businesses",
+      "value": 969
+    },
+    {
+      "fiscal_year": 2020,
+      "dimension": "Distribution Channel",
+      "segment": "Other Businesses",
+      "value": 714
+    },
+    {
+      "fiscal_year": 2021,
+      "dimension": "Distribution Channel",
+      "segment": "Other Businesses",
+      "value": 658
+    },
+    {
+      "fiscal_year": 2022,
+      "dimension": "Distribution Channel",
+      "segment": "Other Businesses",
+      "value": 630
+    },
+    {
+      "fiscal_year": 2023,
+      "dimension": "Distribution Channel",
+      "segment": "Other Businesses",
+      "value": 579
+    }
+  ],
+  "Geography_Tidy": [
+    {
+      "fiscal_year": 2016,
+      "region_comparable": "EMEA",
+      "value": 7393,
+      "basis": "Restated (comparable)"
+    },
+    {
+      "fiscal_year": 2017,
+      "region_comparable": "EMEA",
+      "value": 7956,
+      "basis": "Restated (comparable)"
+    },
+    {
+      "fiscal_year": 2018,
+      "region_comparable": "EMEA",
+      "value": 7955,
+      "basis": "Restated (comparable)"
+    },
+    {
+      "fiscal_year": 2019,
+      "region_comparable": "EMEA",
+      "value": 8369,
+      "basis": "Restated (comparable)"
+    },
+    {
+      "fiscal_year": 2016,
+      "region_comparable": "North America",
+      "value": 3068,
+      "basis": "Restated (comparable)"
+    },
+    {
+      "fiscal_year": 2017,
+      "region_comparable": "North America",
+      "value": 3947,
+      "basis": "Restated (comparable)"
+    },
+    {
+      "fiscal_year": 2018,
+      "region_comparable": "North America",
+      "value": 4361,
+      "basis": "Restated (comparable)"
+    },
+    {
+      "fiscal_year": 2019,
+      "region_comparable": "North America",
+      "value": 4917,
+      "basis": "Restated (comparable)"
+    },
+    {
+      "fiscal_year": 2016,
+      "region_comparable": "Greater China",
+      "value": 2976,
+      "basis": "Restated (comparable)"
+    },
+    {
+      "fiscal_year": 2017,
+      "region_comparable": "Greater China",
+      "value": 3756,
+      "basis": "Restated (comparable)"
+    },
+    {
+      "fiscal_year": 2018,
+      "region_comparable": "Greater China",
+      "value": 4164,
+      "basis": "Restated (comparable)"
+    },
+    {
+      "fiscal_year": 2019,
+      "region_comparable": "Greater China",
+      "value": 4728,
+      "basis": "Restated (comparable)"
+    },
+    {
+      "fiscal_year": 2016,
+      "region_comparable": "Asia-Pacific",
+      "value": 2421,
+      "basis": "Restated (comparable)"
+    },
+    {
+      "fiscal_year": 2017,
+      "region_comparable": "Asia-Pacific",
+      "value": 2716,
+      "basis": "Restated (comparable)"
+    },
+    {
+      "fiscal_year": 2018,
+      "region_comparable": "Asia-Pacific",
+      "value": 2761,
+      "basis": "Restated (comparable)"
+    },
+    {
+      "fiscal_year": 2019,
+      "region_comparable": "Asia-Pacific",
+      "value": 2931,
+      "basis": "Restated (comparable)"
+    },
+    {
+      "fiscal_year": 2016,
+      "region_comparable": "Latin America",
+      "value": 1645,
+      "basis": "Restated (comparable)"
+    },
+    {
+      "fiscal_year": 2017,
+      "region_comparable": "Latin America",
+      "value": 1740,
+      "basis": "Restated (comparable)"
+    },
+    {
+      "fiscal_year": 2018,
+      "region_comparable": "Latin America",
+      "value": 1688,
+      "basis": "Restated (comparable)"
+    },
+    {
+      "fiscal_year": 2019,
+      "region_comparable": "Latin America",
+      "value": 1726,
+      "basis": "Restated (comparable)"
+    },
+    {
+      "fiscal_year": 2016,
+      "region_comparable": "Other Businesses",
+      "value": 980,
+      "basis": "Restated (comparable)"
+    },
+    {
+      "fiscal_year": 2017,
+      "region_comparable": "Other Businesses",
+      "value": 1103,
+      "basis": "Restated (comparable)"
+    },
+    {
+      "fiscal_year": 2018,
+      "region_comparable": "Other Businesses",
+      "value": 986,
+      "basis": "Restated (comparable)"
+    },
+    {
+      "fiscal_year": 2019,
+      "region_comparable": "Other Businesses",
+      "value": 969,
+      "basis": "Restated (comparable)"
+    },
+    {
+      "fiscal_year": 2020,
+      "region_comparable": "EMEA",
+      "value": 7005,
+      "basis": "Restated (comparable)"
+    },
+    {
+      "fiscal_year": 2021,
+      "region_comparable": "EMEA",
+      "value": 7432,
+      "basis": "Restated (comparable)"
+    },
+    {
+      "fiscal_year": 2022,
+      "region_comparable": "EMEA",
+      "value": 7879,
+      "basis": "Restated (comparable)"
+    },
+    {
+      "fiscal_year": 2023,
+      "region_comparable": "EMEA",
+      "value": 7585,
+      "basis": "Restated (comparable)"
+    },
+    {
+      "fiscal_year": 2020,
+      "region_comparable": "North America",
+      "value": 4127,
+      "basis": "Restated (comparable)"
+    },
+    {
+      "fiscal_year": 2021,
+      "region_comparable": "North America",
+      "value": 5330,
+      "basis": "Restated (comparable)"
+    },
+    {
+      "fiscal_year": 2022,
+      "region_comparable": "North America",
+      "value": 5921,
+      "basis": "Restated (comparable)"
+    },
+    {
+      "fiscal_year": 2023,
+      "region_comparable": "North America",
+      "value": 5142,
+      "basis": "Restated (comparable)"
+    },
+    {
+      "fiscal_year": 2020,
+      "region_comparable": "Greater China",
+      "value": 4346,
+      "basis": "Restated (comparable)"
+    },
+    {
+      "fiscal_year": 2021,
+      "region_comparable": "Greater China",
+      "value": 4247,
+      "basis": "Restated (comparable)"
+    },
+    {
+      "fiscal_year": 2022,
+      "region_comparable": "Greater China",
+      "value": 3534,
+      "basis": "Restated (comparable)"
+    },
+    {
+      "fiscal_year": 2023,
+      "region_comparable": "Greater China",
+      "value": 3257,
+      "basis": "Restated (comparable)"
+    },
+    {
+      "fiscal_year": 2020,
+      "region_comparable": "Asia-Pacific",
+      "value": 2342,
+      "basis": "Restated (comparable)"
+    },
+    {
+      "fiscal_year": 2021,
+      "region_comparable": "Asia-Pacific",
+      "value": 2060,
+      "basis": "Restated (comparable)"
+    },
+    {
+      "fiscal_year": 2022,
+      "region_comparable": "Asia-Pacific",
+      "value": 2656,
+      "basis": "Restated (comparable)"
+    },
+    {
+      "fiscal_year": 2023,
+      "region_comparable": "Asia-Pacific",
+      "value": 2807,
+      "basis": "Restated (comparable)"
+    },
+    {
+      "fiscal_year": 2020,
+      "region_comparable": "Latin America",
+      "value": 1310,
+      "basis": "Restated (comparable)"
+    },
+    {
+      "fiscal_year": 2021,
+      "region_comparable": "Latin America",
+      "value": 1507,
+      "basis": "Restated (comparable)"
+    },
+    {
+      "fiscal_year": 2022,
+      "region_comparable": "Latin America",
+      "value": 1891,
+      "basis": "Restated (comparable)"
+    },
+    {
+      "fiscal_year": 2023,
+      "region_comparable": "Latin America",
+      "value": 2057,
+      "basis": "Restated (comparable)"
+    },
+    {
+      "fiscal_year": 2020,
+      "region_comparable": "Other Businesses",
+      "value": 714,
+      "basis": "Restated (comparable)"
+    },
+    {
+      "fiscal_year": 2021,
+      "region_comparable": "Other Businesses",
+      "value": 658,
+      "basis": "Restated (comparable)"
+    },
+    {
+      "fiscal_year": 2022,
+      "region_comparable": "Other Businesses",
+      "value": 630,
+      "basis": "Restated (comparable)"
+    },
+    {
+      "fiscal_year": 2023,
+      "region_comparable": "Other Businesses",
+      "value": 579,
+      "basis": "Restated (comparable)"
+    },
+    {
+      "fiscal_year": 2016,
+      "region_comparable": "Western Europe",
+      "value": 5452,
+      "basis": "As reported pre-FY2020"
+    },
+    {
+      "fiscal_year": 2017,
+      "region_comparable": "Western Europe",
+      "value": 5856,
+      "basis": "As reported pre-FY2020"
+    },
+    {
+      "fiscal_year": 2018,
+      "region_comparable": "Western Europe",
+      "value": 5764,
+      "basis": "As reported pre-FY2020"
+    },
+    {
+      "fiscal_year": 2019,
+      "region_comparable": "Western Europe",
+      "value": 5957,
+      "basis": "As reported pre-FY2020"
+    },
+    {
+      "fiscal_year": 2016,
+      "region_comparable": "North America",
+      "value": 3068,
+      "basis": "As reported pre-FY2020"
+    },
+    {
+      "fiscal_year": 2017,
+      "region_comparable": "North America",
+      "value": 3947,
+      "basis": "As reported pre-FY2020"
+    },
+    {
+      "fiscal_year": 2018,
+      "region_comparable": "North America",
+      "value": 4361,
+      "basis": "As reported pre-FY2020"
+    },
+    {
+      "fiscal_year": 2019,
+      "region_comparable": "North America",
+      "value": 4917,
+      "basis": "As reported pre-FY2020"
+    },
+    {
+      "fiscal_year": 2016,
+      "region_comparable": "Greater China",
+      "value": 2976,
+      "basis": "As reported pre-FY2020"
+    },
+    {
+      "fiscal_year": 2017,
+      "region_comparable": "Greater China",
+      "value": 3756,
+      "basis": "As reported pre-FY2020"
+    },
+    {
+      "fiscal_year": 2018,
+      "region_comparable": "Greater China",
+      "value": 4164,
+      "basis": "As reported pre-FY2020"
+    },
+    {
+      "fiscal_year": 2019,
+      "region_comparable": "Greater China",
+      "value": 4728,
+      "basis": "As reported pre-FY2020"
+    },
+    {
+      "fiscal_year": 2016,
+      "region_comparable": "Russia/CIS",
+      "value": 721,
+      "basis": "As reported pre-FY2020"
+    },
+    {
+      "fiscal_year": 2017,
+      "region_comparable": "Russia/CIS",
+      "value": 700,
+      "basis": "As reported pre-FY2020"
+    },
+    {
+      "fiscal_year": 2018,
+      "region_comparable": "Russia/CIS",
+      "value": 679,
+      "basis": "As reported pre-FY2020"
+    },
+    {
+      "fiscal_year": 2019,
+      "region_comparable": "Russia/CIS",
+      "value": 686,
+      "basis": "As reported pre-FY2020"
+    },
+    {
+      "fiscal_year": 2016,
+      "region_comparable": "Latin America",
+      "value": 1645,
+      "basis": "As reported pre-FY2020"
+    },
+    {
+      "fiscal_year": 2017,
+      "region_comparable": "Latin America",
+      "value": 1740,
+      "basis": "As reported pre-FY2020"
+    },
+    {
+      "fiscal_year": 2018,
+      "region_comparable": "Latin America",
+      "value": 1688,
+      "basis": "As reported pre-FY2020"
+    },
+    {
+      "fiscal_year": 2019,
+      "region_comparable": "Latin America",
+      "value": 1726,
+      "basis": "As reported pre-FY2020"
+    },
+    {
+      "fiscal_year": 2016,
+      "region_comparable": "Other Asian Markets",
+      "value": 2421,
+      "basis": "As reported pre-FY2020"
+    },
+    {
+      "fiscal_year": 2017,
+      "region_comparable": "Other Asian Markets",
+      "value": 2716,
+      "basis": "As reported pre-FY2020"
+    },
+    {
+      "fiscal_year": 2018,
+      "region_comparable": "Other Asian Markets",
+      "value": 2761,
+      "basis": "As reported pre-FY2020"
+    },
+    {
+      "fiscal_year": 2019,
+      "region_comparable": "Other Asian Markets",
+      "value": 2931,
+      "basis": "As reported pre-FY2020"
+    },
+    {
+      "fiscal_year": 2016,
+      "region_comparable": "Emerging Markets",
+      "value": 1220,
+      "basis": "As reported pre-FY2020"
+    },
+    {
+      "fiscal_year": 2017,
+      "region_comparable": "Emerging Markets",
+      "value": 1400,
+      "basis": "As reported pre-FY2020"
+    },
+    {
+      "fiscal_year": 2018,
+      "region_comparable": "Emerging Markets",
+      "value": 1512,
+      "basis": "As reported pre-FY2020"
+    },
+    {
+      "fiscal_year": 2019,
+      "region_comparable": "Emerging Markets",
+      "value": 1726,
+      "basis": "As reported pre-FY2020"
+    },
+    {
+      "fiscal_year": 2016,
+      "region_comparable": "Other Businesses",
+      "value": 980,
+      "basis": "As reported pre-FY2020"
+    },
+    {
+      "fiscal_year": 2017,
+      "region_comparable": "Other Businesses",
+      "value": 1103,
+      "basis": "As reported pre-FY2020"
+    },
+    {
+      "fiscal_year": 2018,
+      "region_comparable": "Other Businesses",
+      "value": 986,
+      "basis": "As reported pre-FY2020"
+    },
+    {
+      "fiscal_year": 2019,
+      "region_comparable": "Other Businesses",
+      "value": 969,
+      "basis": "As reported pre-FY2020"
+    },
+    {
+      "fiscal_year": 2020,
+      "region_comparable": "EMEA",
+      "value": 7005,
+      "basis": "As reported FY2020+"
+    },
+    {
+      "fiscal_year": 2021,
+      "region_comparable": "EMEA",
+      "value": 7432,
+      "basis": "As reported FY2020+"
+    },
+    {
+      "fiscal_year": 2022,
+      "region_comparable": "EMEA",
+      "value": 7879,
+      "basis": "As reported FY2020+"
+    },
+    {
+      "fiscal_year": 2023,
+      "region_comparable": "EMEA",
+      "value": 7585,
+      "basis": "As reported FY2020+"
+    },
+    {
+      "fiscal_year": 2020,
+      "region_comparable": "North America",
+      "value": 4127,
+      "basis": "As reported FY2020+"
+    },
+    {
+      "fiscal_year": 2021,
+      "region_comparable": "North America",
+      "value": 5330,
+      "basis": "As reported FY2020+"
+    },
+    {
+      "fiscal_year": 2022,
+      "region_comparable": "North America",
+      "value": 5921,
+      "basis": "As reported FY2020+"
+    },
+    {
+      "fiscal_year": 2023,
+      "region_comparable": "North America",
+      "value": 5142,
+      "basis": "As reported FY2020+"
+    },
+    {
+      "fiscal_year": 2020,
+      "region_comparable": "Greater China",
+      "value": 4346,
+      "basis": "As reported FY2020+"
+    },
+    {
+      "fiscal_year": 2021,
+      "region_comparable": "Greater China",
+      "value": 4247,
+      "basis": "As reported FY2020+"
+    },
+    {
+      "fiscal_year": 2022,
+      "region_comparable": "Greater China",
+      "value": 3534,
+      "basis": "As reported FY2020+"
+    },
+    {
+      "fiscal_year": 2023,
+      "region_comparable": "Greater China",
+      "value": 3257,
+      "basis": "As reported FY2020+"
+    },
+    {
+      "fiscal_year": 2020,
+      "region_comparable": "Asia-Pacific",
+      "value": 2342,
+      "basis": "As reported FY2020+"
+    },
+    {
+      "fiscal_year": 2021,
+      "region_comparable": "Asia-Pacific",
+      "value": 2060,
+      "basis": "As reported FY2020+"
+    },
+    {
+      "fiscal_year": 2022,
+      "region_comparable": "Asia-Pacific",
+      "value": 2656,
+      "basis": "As reported FY2020+"
+    },
+    {
+      "fiscal_year": 2023,
+      "region_comparable": "Asia-Pacific",
+      "value": 2807,
+      "basis": "As reported FY2020+"
+    },
+    {
+      "fiscal_year": 2020,
+      "region_comparable": "Latin America",
+      "value": 1310,
+      "basis": "As reported FY2020+"
+    },
+    {
+      "fiscal_year": 2021,
+      "region_comparable": "Latin America",
+      "value": 1507,
+      "basis": "As reported FY2020+"
+    },
+    {
+      "fiscal_year": 2022,
+      "region_comparable": "Latin America",
+      "value": 1891,
+      "basis": "As reported FY2020+"
+    },
+    {
+      "fiscal_year": 2023,
+      "region_comparable": "Latin America",
+      "value": 2057,
+      "basis": "As reported FY2020+"
+    },
+    {
+      "fiscal_year": 2020,
+      "region_comparable": "Other Businesses",
+      "value": 714,
+      "basis": "As reported FY2020+"
+    },
+    {
+      "fiscal_year": 2021,
+      "region_comparable": "Other Businesses",
+      "value": 658,
+      "basis": "As reported FY2020+"
+    },
+    {
+      "fiscal_year": 2022,
+      "region_comparable": "Other Businesses",
+      "value": 630,
+      "basis": "As reported FY2020+"
+    },
+    {
+      "fiscal_year": 2023,
+      "region_comparable": "Other Businesses",
+      "value": 579,
+      "basis": "As reported FY2020+"
+    }
+  ],
+  "Opex_Tidy": [
+    {
+      "fiscal_year": 2016,
+      "expense_line": "Marketing and point-of-sale",
+      "value_eur_mn": 2532,
+      "pct_of_net_sales": 13.7
+    },
+    {
+      "fiscal_year": 2017,
+      "expense_line": "Marketing and point-of-sale",
+      "value_eur_mn": 2843,
+      "pct_of_net_sales": 13.4
+    },
+    {
+      "fiscal_year": 2018,
+      "expense_line": "Marketing and point-of-sale",
+      "value_eur_mn": 2871,
+      "pct_of_net_sales": 13.1
+    },
+    {
+      "fiscal_year": 2019,
+      "expense_line": "Marketing and point-of-sale",
+      "value_eur_mn": 3026,
+      "pct_of_net_sales": 12.8
+    },
+    {
+      "fiscal_year": 2020,
+      "expense_line": "Marketing and point-of-sale",
+      "value_eur_mn": 2361,
+      "pct_of_net_sales": 11.9
+    },
+    {
+      "fiscal_year": 2021,
+      "expense_line": "Marketing and point-of-sale",
+      "value_eur_mn": 2569,
+      "pct_of_net_sales": 12.1
+    },
+    {
+      "fiscal_year": 2022,
+      "expense_line": "Marketing and point-of-sale",
+      "value_eur_mn": 2791,
+      "pct_of_net_sales": 12.4
+    },
+    {
+      "fiscal_year": 2023,
+      "expense_line": "Marketing and point-of-sale",
+      "value_eur_mn": 2636,
+      "pct_of_net_sales": 12.3
+    },
+    {
+      "fiscal_year": 2016,
+      "expense_line": "Distribution and selling",
+      "value_eur_mn": 4029,
+      "pct_of_net_sales": 21.8
+    },
+    {
+      "fiscal_year": 2017,
+      "expense_line": "Distribution and selling",
+      "value_eur_mn": 4710,
+      "pct_of_net_sales": 22.2
+    },
+    {
+      "fiscal_year": 2018,
+      "expense_line": "Distribution and selling",
+      "value_eur_mn": 4909,
+      "pct_of_net_sales": 22.4
+    },
+    {
+      "fiscal_year": 2019,
+      "expense_line": "Distribution and selling",
+      "value_eur_mn": 5272,
+      "pct_of_net_sales": 22.3
+    },
+    {
+      "fiscal_year": 2020,
+      "expense_line": "Distribution and selling",
+      "value_eur_mn": 5358,
+      "pct_of_net_sales": 27
+    },
+    {
+      "fiscal_year": 2021,
+      "expense_line": "Distribution and selling",
+      "value_eur_mn": 4969,
+      "pct_of_net_sales": 23.4
+    },
+    {
+      "fiscal_year": 2022,
+      "expense_line": "Distribution and selling",
+      "value_eur_mn": 5470,
+      "pct_of_net_sales": 24.3
+    },
+    {
+      "fiscal_year": 2023,
+      "expense_line": "Distribution and selling",
+      "value_eur_mn": 5528,
+      "pct_of_net_sales": 25.8
+    },
+    {
+      "fiscal_year": 2016,
+      "expense_line": "General and administration",
+      "value_eur_mn": 998,
+      "pct_of_net_sales": 5.4
+    },
+    {
+      "fiscal_year": 2017,
+      "expense_line": "General and administration",
+      "value_eur_mn": 1125,
+      "pct_of_net_sales": 5.3
+    },
+    {
+      "fiscal_year": 2018,
+      "expense_line": "General and administration",
+      "value_eur_mn": 1140,
+      "pct_of_net_sales": 5.2
+    },
+    {
+      "fiscal_year": 2019,
+      "expense_line": "General and administration",
+      "value_eur_mn": 1347,
+      "pct_of_net_sales": 5.7
+    },
+    {
+      "fiscal_year": 2020,
+      "expense_line": "General and administration",
+      "value_eur_mn": 1290,
+      "pct_of_net_sales": 6.5
+    },
+    {
+      "fiscal_year": 2021,
+      "expense_line": "General and administration",
+      "value_eur_mn": 1295,
+      "pct_of_net_sales": 6.1
+    },
+    {
+      "fiscal_year": 2022,
+      "expense_line": "General and administration",
+      "value_eur_mn": 1756,
+      "pct_of_net_sales": 7.8
+    },
+    {
+      "fiscal_year": 2023,
+      "expense_line": "General and administration",
+      "value_eur_mn": 1564,
+      "pct_of_net_sales": 7.3
+    },
+    {
+      "fiscal_year": 2016,
+      "expense_line": "Sundry expenses",
+      "value_eur_mn": 185,
+      "pct_of_net_sales": 1
+    },
+    {
+      "fiscal_year": 2017,
+      "expense_line": "Sundry expenses",
+      "value_eur_mn": 212,
+      "pct_of_net_sales": 1
+    },
+    {
+      "fiscal_year": 2018,
+      "expense_line": "Sundry expenses",
+      "value_eur_mn": 219,
+      "pct_of_net_sales": 1
+    },
+    {
+      "fiscal_year": 2019,
+      "expense_line": "Sundry expenses",
+      "value_eur_mn": 236,
+      "pct_of_net_sales": 1
+    },
+    {
+      "fiscal_year": 2020,
+      "expense_line": "Sundry expenses",
+      "value_eur_mn": 198,
+      "pct_of_net_sales": 1
+    },
+    {
+      "fiscal_year": 2021,
+      "expense_line": "Sundry expenses",
+      "value_eur_mn": 212,
+      "pct_of_net_sales": 1
+    },
+    {
+      "fiscal_year": 2022,
+      "expense_line": "Sundry expenses",
+      "value_eur_mn": 225,
+      "pct_of_net_sales": 1
+    },
+    {
+      "fiscal_year": 2023,
+      "expense_line": "Sundry expenses",
+      "value_eur_mn": 257,
+      "pct_of_net_sales": 1.2
+    },
+    {
+      "fiscal_year": 2016,
+      "expense_line": "Goodwill / intangible impairment",
+      "value_eur_mn": null,
+      "pct_of_net_sales": null
+    },
+    {
+      "fiscal_year": 2017,
+      "expense_line": "Goodwill / intangible impairment",
+      "value_eur_mn": null,
+      "pct_of_net_sales": null
+    },
+    {
+      "fiscal_year": 2018,
+      "expense_line": "Goodwill / intangible impairment",
+      "value_eur_mn": null,
+      "pct_of_net_sales": null
+    },
+    {
+      "fiscal_year": 2019,
+      "expense_line": "Goodwill / intangible impairment",
+      "value_eur_mn": null,
+      "pct_of_net_sales": null
+    },
+    {
+      "fiscal_year": 2020,
+      "expense_line": "Goodwill / intangible impairment",
+      "value_eur_mn": null,
+      "pct_of_net_sales": null
+    },
+    {
+      "fiscal_year": 2021,
+      "expense_line": "Goodwill / intangible impairment",
+      "value_eur_mn": null,
+      "pct_of_net_sales": null
+    },
+    {
+      "fiscal_year": 2022,
+      "expense_line": "Goodwill / intangible impairment",
+      "value_eur_mn": 194,
+      "pct_of_net_sales": null
+    },
+    {
+      "fiscal_year": 2023,
+      "expense_line": "Goodwill / intangible impairment",
+      "value_eur_mn": null,
+      "pct_of_net_sales": null
+    }
+  ],
+  "Workforce": [
+    {
+      "fiscal_year": 2016,
+      "employees_fte": 60617,
+      "revenue_per_employee_eur000": 304.9
+    },
+    {
+      "fiscal_year": 2017,
+      "employees_fte": 56888,
+      "revenue_per_employee_eur000": 373
+    },
+    {
+      "fiscal_year": 2018,
+      "employees_fte": 57016,
+      "revenue_per_employee_eur000": 384.4
+    },
+    {
+      "fiscal_year": 2019,
+      "employees_fte": 59533,
+      "revenue_per_employee_eur000": 397.1
+    },
+    {
+      "fiscal_year": 2020,
+      "employees_fte": 62285,
+      "revenue_per_employee_eur000": 318.6
+    },
+    {
+      "fiscal_year": 2021,
+      "employees_fte": 61401,
+      "revenue_per_employee_eur000": 345.8
+    },
+    {
+      "fiscal_year": 2022,
+      "employees_fte": 59258,
+      "revenue_per_employee_eur000": 379.9
+    },
+    {
+      "fiscal_year": 2023,
+      "employees_fte": 57069,
+      "revenue_per_employee_eur000": 375.5
+    }
+  ]
+}
